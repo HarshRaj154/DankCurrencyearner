@@ -3,7 +3,7 @@ import random
 from discord.ext import commands
 
 fuckyou = commands.Bot(command_prefix="l", self_bot=True)
-key = "NzM4NjA5NjY2NTA1ODM0NTE3.YNWyuA.o8ooSIW1TfLwCuANrw-_hLMJtIY"
+key = ""
 
 
 @fuckyou.event
