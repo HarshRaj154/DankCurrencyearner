@@ -1,6 +1,7 @@
 import time
 import random
 from discord.ext import commands
+import discord
 
 fuckyou = commands.Bot(command_prefix="l", self_bot=True)
 key = ""
@@ -17,8 +18,7 @@ async def se(ctx):
         await ctx.send("pls beg")
         time.sleep(8)
         await ctx.send("pls deposit max")
-        time.sleep(7)
-        await ctx.send("pls give all @AlexTheIdiot#1782")
+        time.sleep(6)
         time.sleep(4)
         await ctx.send("pls hunt")
         time.sleep(9)
