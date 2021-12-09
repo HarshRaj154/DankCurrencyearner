@@ -1,7 +1,5 @@
 import os
 import asyncio
-import time
-import random
 from discord.ext import commands
 import discord
 from keep_alive import keep_alive
